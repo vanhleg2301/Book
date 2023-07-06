@@ -1,0 +1,9 @@
+Biện minh và ngụy biện là hai khái niệm trong lĩnh vực lý luận và logic, liên quan đến quá trình đưa ra và chứng minh các luận điểm hoặc quan điểm.
+
+Biện minh (argumentation) là quá trình sử dụng các lập luận và bằng chứng để hỗ trợ một quan điểm hoặc đưa ra một kết luận. Mục tiêu của biện minh là tìm ra lập luận hợp lý và đáng tin cậy để thuyết phục người khác chấp nhận quan điểm của mình. Một biện minh hiệu quả thường bao gồm các phần tử như giả thiết, lập luận logic và bằng chứng để chứng minh tính hợp lý và đúng đắn của quan điểm được đưa ra.
+
+Ngụy biện (fallacy) là các loại lỗi hoặc sai lầm logic trong quá trình lập luận, khiến cho lập luận trở nên không hợp lý, không đúng hoặc không thuyết phục. Ngụy biện có thể là kết quả của các sai sót trong suy luận, sự lạm dụng logic, hay việc sử dụng các phương pháp không trung thực để thuyết phục người khác. Một số ví dụ về ngụy biện phổ biến là ngụy biện vòng tròn, ngụy biện vấn đáp sai, ngụy biện chuyển qua cá nhân (ad hominem), và ngụy biện chuyển qua tình thái (appeal to emotion).
+
+Để xác định xem một quy luật lập luận là biện minh hay ngụy biện, người ta thường phân tích cấu trúc lập luận, kiểm tra logic và xem xét tính đúng đắn và hợp lý của các giả thiết và bằng chứng được đưa ra.
+
+Tóm lại, biện minh là quá trình sử dụng lập luận và bằng chứng để thuyết phục người khác chấp nhận một quan điểm, trong khi ngụy biện là các lỗi hoặc sai lầm logic trong quá trình lập luận. Hiểu và phân biệt giữa biện minh và ngụy biện là một yếu tố quan trọng trong việc phân tích và đánh giá các luận điểm và quan điểm.
